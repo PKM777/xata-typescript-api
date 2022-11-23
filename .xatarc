@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Praveen-K-M-s-workspace-5ubi9b.us-east-1.xata.sh/db/example-app-database",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
