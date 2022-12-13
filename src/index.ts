@@ -43,5 +43,5 @@ app.delete("/api/example/:id", async (req:Request, res:Response)=>{
 
 
 app.listen(port, ()=>{
-    console.log("server is running on port 3000")
+    console.log(`server is running on port ${port}`)
 })
